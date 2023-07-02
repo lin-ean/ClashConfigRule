@@ -15,6 +15,6 @@ DOMAIN,wmsjsteam.com
 DOMAIN-SUFFIX,cm.steampowered.com
 DOMAIN-SUFFIX,steamchina.com
 DOMAIN-SUFFIX,steamcontent.com
-DOMAIN-SUFFIX,steamserver.net
+#DOMAIN-SUFFIX,steamserver.net
 DOMAIN-SUFFIX,steamusercontent.com
 DOMAIN-SUFFIX,steampowered.com
