@@ -1,4 +1,6 @@
 # 内容：Microsoft
+# 基于acl4SSR规则
+# 去除了微软云盘相关规则
 # 数量：79条
 #DOMAIN-KEYWORD,1drv
 DOMAIN-KEYWORD,microsoft
