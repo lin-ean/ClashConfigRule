@@ -1,5 +1,5 @@
 PROCESS-NAME,qbittorrent
-
+PROCESS-NAME,qbittorrent-nox
 DOMAIN,steampipe.akamaized.net
 
 DOMAIN-SUFFIX,steampipe.akamaized.net
