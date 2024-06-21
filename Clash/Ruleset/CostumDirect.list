@@ -11,3 +11,6 @@ PROCESS-NAME,qbittorrent-nox
 
 #zerotire
 PROCESS-NAME,zerotire
+
+#i-s.fun
+DOMAIN-SUFFIX,i-s.fun
