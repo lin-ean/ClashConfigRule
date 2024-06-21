@@ -8,3 +8,6 @@ DOMAIN-SUFFIX,steampipe.akamaized.net
 #qbittorrent
 PROCESS-NAME,qbittorrent
 PROCESS-NAME,qbittorrent-nox
+
+#zerotire
+PROCESS-NAME,zerotire
