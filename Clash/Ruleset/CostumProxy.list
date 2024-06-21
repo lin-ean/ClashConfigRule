@@ -1,5 +1,5 @@
 #dns
 PROCESS-NAME,mosdns
 PROCESS-NAME,smartdns
-IP-CIDR,1.1.1.1,no-resolve
-IP-CIDR,8.8.8.8,no-resolve
+#IP-CIDR,1.1.1.1,no-resolve
+#IP-CIDR,8.8.8.8,no-resolve
