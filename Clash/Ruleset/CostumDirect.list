@@ -3,6 +3,7 @@ DOMAIN-SUFFIX,photo-api.adobe.io
 
 #steam
 DOMAIN,steampipe.akamaized.net
+DOMAIN,cdn.steamstatic.com
 DOMAIN-SUFFIX,steampipe.akamaized.net
 
 #qbittorrent
