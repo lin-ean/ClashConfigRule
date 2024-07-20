@@ -21,3 +21,6 @@ DOMAIN-SUFFIX,ntp.org
 
 #forge
 media.forgecdn.net
+
+#modrinth
+cdn.modrinth.com
