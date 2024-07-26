@@ -10,6 +10,9 @@ DOMAIN-SUFFIX,steampipe.akamaized.net
 PROCESS-NAME,qbittorrent
 PROCESS-NAME,qbittorrent-nox
 
+#tracker
+tr2.ysagin.top
+
 #zerotire
 PROCESS-NAME,zerotier-one
 
