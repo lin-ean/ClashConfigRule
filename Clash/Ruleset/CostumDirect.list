@@ -11,7 +11,7 @@ PROCESS-NAME,qbittorrent
 PROCESS-NAME,qbittorrent-nox
 
 #tracker
-tr2.ysagin.top
+DOMAIN,tr2.ysagin.top
 
 #zerotire
 PROCESS-NAME,zerotier-one
