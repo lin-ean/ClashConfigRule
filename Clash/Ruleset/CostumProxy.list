@@ -1,8 +1,8 @@
 #dns
 PROCESS-NAME,mosdns
 PROCESS-NAME,smartdns
-#IP-CIDR,1.1.1.1,no-resolve
-#IP-CIDR,8.8.8.8,no-resolve
+IP-CIDR,1.1.1.1/32,no-resolve
+IP-CIDR,8.8.8.8/32,no-resolve
 
 #sleazyfork 脚本
 DOMAIN-SUFFIX,sleazyfork.org

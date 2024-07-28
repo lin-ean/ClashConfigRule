@@ -23,7 +23,7 @@ DOMAIN-SUFFIX,i-s.fun
 DOMAIN-SUFFIX,ntp.org
 
 #forge
-media.forgecdn.net
+DOMAIN,media.forgecdn.net
 
 #modrinth
-cdn.modrinth.com
+DOMAIN,cdn.modrinth.com
