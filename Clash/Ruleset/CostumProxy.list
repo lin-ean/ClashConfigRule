@@ -6,3 +6,6 @@ IP-CIDR,8.8.8.8/32,no-resolve
 
 #sleazyfork 脚本
 DOMAIN-SUFFIX,sleazyfork.org
+
+#steam
+DOMAIN-SUFFIX,steamcommunity.com
